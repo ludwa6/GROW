@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A work-in-progress, soon to have a [GitHub repository](https://github.com/ludwa6/GROW) (if that repo is not yet live, stay tuned, it's coming) for open collaboration, there is a [placeholder page at Rpubs](http://rpubs.com/ludwa6/GROW) that we'll try to keep in sync with this one as we go.
+A work-in-progress, soon to have a [GitHub repository](https://github.com/ludwa6/GROW) for open collaboration, there is a [placeholder page at Rpubs](http://rpubs.com/ludwa6/GROW) that we'll try to keep in sync with this one as we go.
 
 ## Specific Context
 
