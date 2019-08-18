@@ -1,0 +1,12 @@
+name: vdl_plots
+title: vdl_plots
+username:
+account: growvdl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617915
+bundleId: 1824224
+url: https://growvdl.shinyapps.io/vdl_plots/
+when: 1547918733.73888
+asMultiple: FALSE
+asStatic: FALSE
