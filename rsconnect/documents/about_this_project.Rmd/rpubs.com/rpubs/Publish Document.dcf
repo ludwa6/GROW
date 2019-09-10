@@ -4,7 +4,6 @@ username:
 account: rpubs
 server: rpubs.com
 hostUrl: rpubs.com
-appId: https://api.rpubs.com/api/v1/document/460835/533a3e32eec64046b7bba86320916296
-bundleId: https://api.rpubs.com/api/v1/document/460835/533a3e32eec64046b7bba86320916296
-url: http://rpubs.com/ludwa6/460835/edit
-when: 1548296418.58408
+appId: https://api.rpubs.com/api/v1/document/526853/df10a8acf5ab4e569fd3c4f79a943fa4
+bundleId: https://api.rpubs.com/api/v1/document/526853/df10a8acf5ab4e569fd3c4f79a943fa4
+url: http://rpubs.com/publish/claim/526853/327f948b54cd4975a79361d71881bec1
