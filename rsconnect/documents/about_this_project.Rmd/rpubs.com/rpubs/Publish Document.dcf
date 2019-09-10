@@ -6,5 +6,5 @@ server: rpubs.com
 hostUrl: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/526879/e0977d5469704138804a9f4b665944c2
 bundleId: https://api.rpubs.com/api/v1/document/526879/e0977d5469704138804a9f4b665944c2
-url: http://rpubs.com/publish/claim/526879/cf953b13c60f4b7da979835a1b08f767
-when: 1568137883.64995
+url: http://rpubs.com/ludwa6/526879
+when: 1568138182.00954
