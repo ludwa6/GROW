@@ -377,6 +377,7 @@ $(document).ready(function () {
 
 
 <p>A first pass at publishing a sensor classification table, and analysis thereon… But first, i must find out to create and publish this .Rmd document with embedded code. Let’s give it a shot:</p>
+<p>Not sure what that code chunk does… But let’s try to load tools and data:</p>
 <pre><code>## SECTION 0: Load Tools ----
 library(dplyr)
 library(stringr)
@@ -386,7 +387,9 @@ library(ggplot2)
 
 ### the CSV file from AirTable (sensor classification and state)
 MyData &lt;- read.csv(&quot;~/Dropbox/sensing_mission/Grow/data/airtable_combi.csv&quot;)
-MyData &lt;- tbl_df(MyData)</code></pre>
+MyData &lt;- tbl_df(MyData)
+
+head(MyData)</code></pre>
 <div id="r-markdown" class="section level2">
 <h2>R Markdown</h2>
 <p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>

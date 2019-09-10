@@ -9,6 +9,7 @@ A first pass at publishing a sensor classification table, and analysis thereon..
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Not sure what that code chunk does... But let's try to load tools and data:
 
 ```
 ## SECTION 0: Load Tools ----
@@ -21,6 +22,8 @@ library(ggplot2)
 ### the CSV file from AirTable (sensor classification and state)
 MyData <- read.csv("~/Dropbox/sensing_mission/Grow/data/airtable_combi.csv")
 MyData <- tbl_df(MyData)
+
+head(MyData)
 ```
 
 ## R Markdown
