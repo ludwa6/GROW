@@ -1,23 +1,24 @@
 ---
-title: "About This Project"
+title: ReadMe
+author: Walt Ludwick
+date: '2019-08-19'
 output: html_document
 ---
 
-A work-in-progress, soon to have a [GitHub repository](https://github.com/ludwa6/GROW) for open collaboration, there is a [placeholder page at Rpubs](http://rpubs.com/ludwa6/GROW) that we'll try to keep in sync with this one as we go.
+__Description__: clear, short, to the point. What it does, why it's important
 
-## Specific Context
+__Installation__: How to install locally (optional: a gif):
+- Dependencies: Sensors; hub account; the data archive in dropbox
 
-This project has grown out of two different tracks of development, essentially:
+__Usage__: How to use, after installation (optional: screenshots?)
+- how to update the data files
 
-- **Regenerative Farming** at [Quinta Vale da Lama](https://www.valedalama.net)
-- **GROW Observatory:** _The Sensing Mission_
+__Contributing__:  (in this case, simple: clone, change, issue pull request)
 
-## Larger Purpose
+__Credits__: highlight and link to project authors
 
-- Citizen Science
-- Reproducible Research
-- Intelligence Augmentation
+__License__:
 
-## Technology
-
-This project depends on a number of technologies, including...
+__Roadmap__:
+1. Finish sensor classification
+1.
